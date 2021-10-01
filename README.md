@@ -4,7 +4,7 @@ This is a Tamagochi text base game.
 
 0) Program Instructions
     - To play the game, run src.main.Main.main() method.
-    - TO AVOID LOSING DATA, PLEASE NOT TERMINATE PROGRAM OUTSIDE THE GAME. (Important!)
+    - TO AVOID LOSING DATA, PLEASE DO NOT TERMINATE PROGRAM OUTSIDE THE GAME. (Important!)
     - To exit the game, choose 'Exit' option in menu.
     - To clean all game data to reset the game, delete Files/ObjectManager.ser in the project file.
 
